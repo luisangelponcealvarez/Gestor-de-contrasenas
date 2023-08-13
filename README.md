@@ -15,4 +15,4 @@ puedes editar los datos desde la aplicación y tambien si tienes muchos datos pu
 
 ![miniatura](./miniatura.png)
 ### Repo del sitio
-![sitio](https://github.com/luisangelponcealvarez/SiteGestorDeContrasenas)
+https://github.com/luisangelponcealvarez/SiteGestorDeContrasenas
