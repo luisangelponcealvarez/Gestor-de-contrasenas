@@ -13,4 +13,4 @@ puedes editar los datos desde la aplicación y tambien si tienes muchos datos pu
 
 ### Miniatura
 
-![miniatura](./public/Img/miniatura.png)
+![miniatura]("./public/Img/miniatura.png")
