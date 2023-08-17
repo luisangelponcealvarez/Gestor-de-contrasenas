@@ -1,12 +1,11 @@
-from tkinter import ttk
 import customtkinter
+from tkinter import ttk
 from tkinter import messagebox
 from tkinter import filedialog
 import sqlite3
 import random
 import string
 import pyperclip
-import requests
 
 
 class GestorDeContraseñas(customtkinter.CTk):
@@ -15,6 +14,9 @@ class GestorDeContraseñas(customtkinter.CTk):
         self.title("Gestor De Contraseñas")
         self.resizable(False, False)  # Evitar redimensionar la ventana
         self.geometry("750x400")
+        self.iconbitmap(
+            "D:\mis archivos\documentos\Proyectos\GestorDeContrasenas\icon.ico"
+        )
 
         # Selecciónar el archivo
         file = filedialog.askopenfilename()
