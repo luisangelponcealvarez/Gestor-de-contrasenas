@@ -15,7 +15,7 @@ class GestorDeContraseñas(customtkinter.CTk):
         self.resizable(False, False)  # Evitar redimensionar la ventana
         self.geometry("750x400")
         self.iconbitmap(
-            "D:\mis archivos\documentos\Proyectos\GestorDeContrasenas\icon.ico"
+            "https://github.com/luisangelponcealvarez/Gestor-de-contrasenas/blob/main/public/Img/icon.ico"
         )
 
         # Selecciónar el archivo
