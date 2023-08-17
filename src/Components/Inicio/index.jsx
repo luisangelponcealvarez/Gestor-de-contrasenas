@@ -5,7 +5,7 @@ export function Inicio() {
     <>
       <section id="inicio">
         <img
-          src="https://github.com/luisangelponcealvarez/Gestor-de-contrasenas/raw/main/miniatura.png"
+          src="https://github.com/luisangelponcealvarez/Gestor-de-contrasenas/raw/main/public/Img/miniatura.png"
           className="miniatura"
           alt="photo"
         />
