@@ -8,15 +8,12 @@ import string
 import pyperclip
 
 
-class GestorDeContraseñas(customtkinter.CTk):
+class App(customtkinter.CTk):
     def __init__(self):
         super().__init__()
         self.title("Gestor De Contraseñas")
         self.resizable(False, False)  # Evitar redimensionar la ventana
         self.geometry("750x400")
-        self.iconbitmap(
-            "https://github.com/luisangelponcealvarez/Gestor-de-contrasenas/blob/main/public/Img/icon.ico"
-        )
 
         # Selecciónar el archivo
         file = filedialog.askopenfilename()
@@ -217,5 +214,5 @@ class GestorDeContraseñas(customtkinter.CTk):
 
 
 if __name__ == "__main__":
-    app = GestorDeContraseñas()
+    app = App()
     app.mainloop()
