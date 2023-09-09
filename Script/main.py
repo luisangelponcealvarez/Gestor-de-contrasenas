@@ -12,7 +12,7 @@ from Components import (
     Campos,
     Btn_Generar_contraseña,
     Btn_Guardar,
-    Buscar,
+    InputBuscar,
     Btn_mostrar_todo,
     Btn_copiar_nombre,
     Btn_copiar_correo,
@@ -54,7 +54,7 @@ class GestorDeContraseñas(customtkinter.CTk):
         Btn_Guardar.Btn_buardar(self)
 
         # Crear campo de búsqueda y botón de búsqueda
-        Buscar.Buscar(self)
+        InputBuscar.InputBuscar(self)
 
         # Botón para mostrar todos los datos nuevamente
         Btn_mostrar_todo.Btn_mostrar_todo(self)
