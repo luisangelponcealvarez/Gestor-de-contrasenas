@@ -34,7 +34,9 @@ export function Header() {
               <Link to="/Creador">Creador</Link>
             </li>
             <li>
-              <Link to="/Contacto">Contacto</Link>
+              <a href="https://luisangelponcealvarez.netlify.app/Contact">
+                Contacto
+              </a>
             </li>
           </ul>
         </nav>
