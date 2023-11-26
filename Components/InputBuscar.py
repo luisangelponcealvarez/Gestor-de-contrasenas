@@ -1,5 +1,6 @@
 import customtkinter
 
+
 def InputBuscar(self):
     buscar_label = customtkinter.CTkLabel(self, text="Buscar:")
     buscar_label.grid(row=5, column=0, sticky="w", padx=30, pady=5)
