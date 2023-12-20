@@ -1,11 +1,10 @@
 ## GestorDeContrasenas
 
-Este proyecto esta desarrollado en python para hacer un gestor de contraseñas que te da un archivo para ver lo guardado.
-Puedes editar los datos desde la aplicación y tambien si tienes muchos datos puedes buscarlo por el nombre
+This project is developed in python to make a password manager that gives you a file to see the saved data. You can edit the data from the application and also if you have a lot of data you can search it by name.
 
 ## Usage 🚀
 
-~Descarga y installa python en tu computadora
+~Download and install python on your computer
 
 ```
 https://www.python.org/
@@ -24,11 +23,11 @@ git clone https://github.com/luisangelponcealvarez/Gestor-de-contrasenas.git
 pip install requirements.txt
 ```
 
-### Lo que nesecitas
+### What you need
 
-nesecitas crear un archivo con extención (db) para guardar los datos
+you need to create a file with file extension (db) to store the data
 
-~Ejecuta el comando para ejecutar la app
+~Execute the command to run the app
 
 ```
 python main.py
