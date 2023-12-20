@@ -1,4 +1,4 @@
-## GestorDeContrasenas
+## Password Manager
 
 This project is developed in python to make a password manager that gives you a file to see the saved data. You can edit the data from the application and also if you have a lot of data you can search it by name.
 
