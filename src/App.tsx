@@ -1,7 +1,9 @@
 function App() {
   return (
     <>
-      <h1 className="m-3 text-center">Password Manager</h1>
+      <h1 className="m-5 text-4xl text-blue-700 text-center">
+        Password Manager
+      </h1>
     </>
   );
 }
