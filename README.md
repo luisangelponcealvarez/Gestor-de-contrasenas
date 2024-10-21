@@ -20,7 +20,7 @@ git clone https://github.com/luisangelponcealvarez/Gestor-de-contrasenas.git
 ~Install dependencies (make sure you are in the root of this repository)
 
 ```
-pip install requirements.txt
+py -m pip install -r requirements.txt
 ```
 
 ### What you need
