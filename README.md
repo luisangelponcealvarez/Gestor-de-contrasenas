@@ -13,7 +13,7 @@ https://www.python.org/
 ~Clone this repository
 
 ```
-git clone https://github.com/luisangelponcealvarez/Gestor-de-contrasenas.git
+git clone https://github.com/luisangelponcealvarez/Password-Manager.git
 
 ```
 
