@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Pregunta general
+    url: https://github.com/usuario/repositorio/discussions
+    about: Usa el foro de discusiones para preguntas generales.
